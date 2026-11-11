@@ -25,7 +25,7 @@
       <description>Приветствие: папа рассказывает, зачем этот подкаст и как его слушать. 23 секунды, можно слушать первым.</description>
       <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/intro.mp3" length="373698" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-intro</guid>
-      <pubDate>Wed, 11 Nov 2026 06:12:11 +0300</pubDate>
+      <pubDate>Wed, 11 Nov 2026 06:18:55 +0300</pubDate>
       <itunes:duration>00:00:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -33,10 +33,10 @@
       <title>01 · Каша из топора</title>
       <itunes:subtitle>Русская народная, пересказ</itunes:subtitle>
       <description>Русская народная, пересказ. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/kasha-iz-topora.mp3" length="1872498" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/kasha-iz-topora.mp3" length="2006244" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-kasha-iz-topora</guid>
       <pubDate>Tue, 20 Oct 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:01:57</itunes:duration>
+      <itunes:duration>00:02:05</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -44,10 +44,10 @@
       <title>02 · Бублик и опоздавший поезд</title>
       <itunes:subtitle>Новая история</itunes:subtitle>
       <description>Новая история. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/pes-bublik-2.mp3" length="1979914" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/pes-bublik-2.mp3" length="2116168" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-pes-bublik-2</guid>
       <pubDate>Wed, 21 Oct 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:02:03</itunes:duration>
+      <itunes:duration>00:02:12</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -55,10 +55,10 @@
       <title>03 · Бублик и новый котёнок</title>
       <itunes:subtitle>Новая история</itunes:subtitle>
       <description>Новая история. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/pes-bublik-3.mp3" length="2096107" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/pes-bublik-3.mp3" length="2219404" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-pes-bublik-3</guid>
       <pubDate>Thu, 22 Oct 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:02:10</itunes:duration>
+      <itunes:duration>00:02:18</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -66,10 +66,10 @@
       <title>04 · Бублик и потерянная варежка</title>
       <itunes:subtitle>Новая история</itunes:subtitle>
       <description>Новая история. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/pes-bublik-1.mp3" length="2216897" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/pes-bublik-1.mp3" length="2345628" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-pes-bublik-1</guid>
       <pubDate>Fri, 23 Oct 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:02:18</itunes:duration>
+      <itunes:duration>00:02:26</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -77,10 +77,10 @@
       <title>05 · Морозко</title>
       <itunes:subtitle>Русская народная, пересказ</itunes:subtitle>
       <description>Русская народная, пересказ. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/morozko.mp3" length="2934115" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/morozko.mp3" length="3069115" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-morozko</guid>
       <pubDate>Sat, 24 Oct 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:03:03</itunes:duration>
+      <itunes:duration>00:03:11</itunes:duration>
       <itunes:episode>5</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -88,10 +88,10 @@
       <title>06 · Сивка-бурка</title>
       <itunes:subtitle>Русская народная, пересказ</itunes:subtitle>
       <description>Русская народная, пересказ. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/sivka-burka.mp3" length="3918407" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/sivka-burka.mp3" length="4036689" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-sivka-burka</guid>
       <pubDate>Sun, 25 Oct 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:04:04</itunes:duration>
+      <itunes:duration>00:04:12</itunes:duration>
       <itunes:episode>6</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -99,10 +99,10 @@
       <title>07 · Сказка про храброго Зайца</title>
       <itunes:subtitle>Дмитрий Мамин-Сибиряк</itunes:subtitle>
       <description>Дмитрий Мамин-Сибиряк. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/hrabry-zayac.mp3" length="4310872" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/hrabry-zayac.mp3" length="4426646" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-hrabry-zayac</guid>
       <pubDate>Mon, 26 Oct 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:04:29</itunes:duration>
+      <itunes:duration>00:04:36</itunes:duration>
       <itunes:episode>7</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -110,10 +110,10 @@
       <title>08 · Василиса Прекрасная</title>
       <itunes:subtitle>Русская народная, пересказ</itunes:subtitle>
       <description>Русская народная, пересказ. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/vasilisa.mp3" length="4403239" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/vasilisa.mp3" length="4510236" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-vasilisa</guid>
       <pubDate>Tue, 27 Oct 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:04:35</itunes:duration>
+      <itunes:duration>00:04:41</itunes:duration>
       <itunes:episode>8</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -121,10 +121,10 @@
       <title>09 · Царевна-лягушка</title>
       <itunes:subtitle>Русская народная, пересказ</itunes:subtitle>
       <description>Русская народная, пересказ. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/carevna-lyagushka.mp3" length="4960380" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/carevna-lyagushka.mp3" length="5085349" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-carevna-lyagushka</guid>
       <pubDate>Wed, 28 Oct 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:05:09</itunes:duration>
+      <itunes:duration>00:05:17</itunes:duration>
       <itunes:episode>9</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -132,10 +132,10 @@
       <title>10 · Сказка о рыбаке и рыбке</title>
       <itunes:subtitle>Александр Пушкин</itunes:subtitle>
       <description>Александр Пушкин. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/rybak-i-rybka.mp3" length="6870035" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/rybak-i-rybka.mp3" length="6987063" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-rybak-i-rybka</guid>
       <pubDate>Thu, 29 Oct 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:07:09</itunes:duration>
+      <itunes:duration>00:07:16</itunes:duration>
       <itunes:episode>10</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -143,10 +143,10 @@
       <title>11 · Иван-царевич и серый волк</title>
       <itunes:subtitle>Русская народная, пересказ</itunes:subtitle>
       <description>Русская народная, пересказ. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/ivan-carevich.mp3" length="7590176" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/ivan-carevich.mp3" length="7704696" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-ivan-carevich</guid>
       <pubDate>Fri, 30 Oct 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:07:54</itunes:duration>
+      <itunes:duration>00:08:01</itunes:duration>
       <itunes:episode>11</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -154,10 +154,10 @@
       <title>12 · Кот в сапогах</title>
       <itunes:subtitle>Шарль Перро</itunes:subtitle>
       <description>Шарль Перро. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/kot-v-sapogah.mp3" length="7748582" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/kot-v-sapogah.mp3" length="7860595" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-kot-v-sapogah</guid>
       <pubDate>Sat, 31 Oct 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:08:04</itunes:duration>
+      <itunes:duration>00:08:11</itunes:duration>
       <itunes:episode>12</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -165,10 +165,10 @@
       <title>13 · Лягушка-путешественница</title>
       <itunes:subtitle>Всеволод Гаршин</itunes:subtitle>
       <description>Всеволод Гаршин. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/lyagushka.mp3" length="8726189" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/lyagushka.mp3" length="8844471" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-lyagushka</guid>
       <pubDate>Sun, 01 Nov 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:09:05</itunes:duration>
+      <itunes:duration>00:09:12</itunes:duration>
       <itunes:episode>13</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -176,10 +176,10 @@
       <title>14 · Городок в табакерке</title>
       <itunes:subtitle>Владимир Одоевский</itunes:subtitle>
       <description>Владимир Одоевский. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/gorodok.mp3" length="13890490" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/gorodok.mp3" length="14006264" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-gorodok</guid>
       <pubDate>Mon, 02 Nov 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:14:28</itunes:duration>
+      <itunes:duration>00:14:35</itunes:duration>
       <itunes:episode>14</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -187,10 +187,10 @@
       <title>15 · Мороз Иванович</title>
       <itunes:subtitle>Владимир Одоевский</itunes:subtitle>
       <description>Владимир Одоевский. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/moroz-ivanovich.mp3" length="13910134" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/moroz-ivanovich.mp3" length="14009190" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-moroz-ivanovich</guid>
       <pubDate>Tue, 03 Nov 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:14:29</itunes:duration>
+      <itunes:duration>00:14:35</itunes:duration>
       <itunes:episode>15</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -198,10 +198,10 @@
       <title>16 · Серая Шейка</title>
       <itunes:subtitle>Дмитрий Мамин-Сибиряк</itunes:subtitle>
       <description>Дмитрий Мамин-Сибиряк. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/seraya-sheyka.mp3" length="16838355" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/seraya-sheyka.mp3" length="16944098" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-seraya-sheyka</guid>
       <pubDate>Wed, 04 Nov 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:17:32</itunes:duration>
+      <itunes:duration>00:17:38</itunes:duration>
       <itunes:episode>16</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -209,10 +209,10 @@
       <title>17 · Гадкий утёнок</title>
       <itunes:subtitle>Ганс Христиан Андерсен</itunes:subtitle>
       <description>Ганс Христиан Андерсен. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/gadkiy-utenok.mp3" length="17499983" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/gadkiy-utenok.mp3" length="17609488" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-gadkiy-utenok</guid>
       <pubDate>Thu, 05 Nov 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:18:13</itunes:duration>
+      <itunes:duration>00:18:20</itunes:duration>
       <itunes:episode>17</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -220,10 +220,10 @@
       <title>18 · Соловей</title>
       <itunes:subtitle>Ганс Христиан Андерсен</itunes:subtitle>
       <description>Ганс Христиан Андерсен. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/solovey.mp3" length="18468811" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/solovey.mp3" length="18567867" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-solovey</guid>
       <pubDate>Fri, 06 Nov 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:19:14</itunes:duration>
+      <itunes:duration>00:19:20</itunes:duration>
       <itunes:episode>18</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -231,10 +231,10 @@
       <title>19 · Сказка о царе Салтане</title>
       <itunes:subtitle>Александр Пушкин</itunes:subtitle>
       <description>Александр Пушкин. Сказки на ночь для любимого сыночка. Папа читает тихо, всё тише к финалу — чтобы засыпалось легче: Пушкин, Одоевский, Мамин-Сибиряк, Гаршин, Андерсен, Перро и русские народные.</description>
-      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/car-saltan.mp3" length="27769653" type="audio/mpeg"/>
+      <enclosure url="https://ilya-sidor.github.io/spi-vasenka/podcast/audio/car-saltan.mp3" length="27907161" type="audio/mpeg"/>
       <guid isPermaLink="false">spivasenka-car-saltan</guid>
       <pubDate>Sat, 07 Nov 2026 19:00:00 +0300</pubDate>
-      <itunes:duration>00:28:55</itunes:duration>
+      <itunes:duration>00:29:04</itunes:duration>
       <itunes:episode>19</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
